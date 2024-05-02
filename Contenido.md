@@ -3,6 +3,8 @@ EvolvRehab, ACV, rehabilitación virtual, ~~pendiente~~
 # 1 Introducción
 # 2 EvolvRehab 
 
+------ ./fuentes/verificados/effect-of-specific-over-nonspecific.pdf
+- en la parte de discución dice que los VR específicos son más efectivos
 ------ ./fuentes/verificados/consideratios-of-concept-of-evolv-rehab.pdf
 - terapia basada en evidencia
 - VR es bueno mejor que los generales (caso de EvolvRehab)
