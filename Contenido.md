@@ -5,6 +5,11 @@ EvolvRehab, ACV, rehabilitación virtual, ~~pendiente~~
 ------ ./fuentes/verificados/recovery-after-brain-injury.pdf 
 - la actividad motora sin nuevas habilidades, no cambios neurológicos
 
+------ ./fuentes/verificados/effectiveness-early-rehabilitation-virtual.pdf
+- mejoraron estado emocional
+- fuerza de los músculos mayor
+- mejorar funcional al salir de alta
+
 
 ------ ./fuentes/verificados/the_ultimate_display.pdf
 Da una introducción a lo que es el ambiente simulado
@@ -15,6 +20,8 @@ Da una introducción a lo que es el ambiente simulado
 La realidad virtual para la rehabilitación es el arte y la ciencia de crear y aplicar actividades cognitivas y/o físicas interactivas creadas con computadoras que parecen y se sienten similares a objetos y eventos del mundo real
 
 , el nivel de desafío y la retroalimentación que sea relevante para el individuo y/o la tarea son factores esenciales para la plasticidad neuronal dependiente de la experiencia [3] que puede ser explotada en aplicaciones de rehabilitación virtual. Estos elementos de entrenamiento son importantes para optimizar la recuperación motora al desafiar al sistema a participar en estrategias motoras adaptativas para encontrar soluciones a diferentes problemas motores [9–11]
+
+Por lo tanto, la oportunidad de participar en prácticas variadas de alta intensidad distingue la rehabilitación virtual de los enfoques basados en tecnología que promueven el entrenamiento repetitivo de una sola tarea, como algunos de los que emplean dispositivos robóticos pasivos o activos (por ejemplo, [12]).
 
 Las actividades que son interesantes y atractivas también generan el deseo del individuo de practicar durante más tiempo y/o más intensamente, promoviendo la plasticidad neuronal dependiente de la experiencia [3].
 
